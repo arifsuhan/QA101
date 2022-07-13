@@ -1,7 +1,7 @@
 ### SQA Learning Tools
 This repository contain SQA Learning Tools
 
-**Basic to Advance**
+**Basic to Advance** </br>
 **Manual & Automation Testing Basic -> Web, Mobile, API Automation, Load and Security Testing**
 1. Manual Testing: Test Plan & Cases, STLC etc
 2. Programming Language: Java
