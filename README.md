@@ -20,3 +20,18 @@ This repository contain SQA Learning Tools
 15. CI/CD Tool: Jenkins
 16. Mock Interview
 17. Resume Writing
+
+**Learning Reference**
+1. https://rafayethossain.github.io/books/
+2. https://medium.com/career-insight
+3. https://github.com/abhivaikar/howtheytest
+4. https://www.facebook.com/groups/sqabd/permalink/10165918770990298/
+5. https://tahanima.github.io/2021/12/04/entry-level-quality-assurance-engineer-interview-preparation-guide/
+
+**Books**
+1. The Demon-Haunted World by Ann Druyan and Carl Sagan
+2. Lessons learned in software testing
+3. Fifty Quick Ideas To Improve Your Tests by David Evans, Gojko Adzic and Tom Roden 
+4. Software Testing: A Craftsman’s Approach 4th Edition by Paul C. Jorgensen
+5. The Art of Software Testing by Glenford J. Myers
+6. IEEE Standard for Software and System Test Documentation
